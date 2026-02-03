@@ -5,7 +5,6 @@
 ## Inicializar un proyecto
 ``npm init -y``
 
-
 ## manejo de git
 ``git init``
 ``git add .``
